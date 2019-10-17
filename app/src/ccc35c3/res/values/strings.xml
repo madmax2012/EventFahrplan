@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">35C3 Schedule</string>
-    <string name="app_hardcoded_subtitle">December 27.-30. 2018, Leipzig, Leipziger Messe</string>
+    <string name="app_name">66 StuTs Schedule</string>
+    <string name="app_hardcoded_subtitle">Stuts Muenchen 2019</string>
     <string name="conference_url">
         <![CDATA[<a href="https://events.ccc.de/congress/2018/wiki">https://events.ccc.de/congress/2018/wiki</a>]]>
     </string>
