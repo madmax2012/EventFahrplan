@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">66 StuTs Schedule</string>
+    <string name="app_hardcoded_subtitle">Stuts Muenchen 2019</string>
+    <string name="conference_url">
+        <![CDATA[<a href="https://talks.stuts.de">https://talks.stuts.de</a>]]>
+    </string>
+    <string name="source_code">
+        <![CDATA[<a href="https://github.com/EventFahrplan/EventFahrplan">Source code</a>]]>
+    </string>
+    <string name="google_play_store">
+        <![CDATA[<a href="https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule">Google PlayStore listing</a>]]>
+    </string>
+    <string name="copyright_logo">
+        <![CDATA[StuTS66: Orga Muenchen 2]]>
+    </string>
+    <string name="about_logo_content_description">
+        Logo Muenchen
+    </string>
+</resources>
