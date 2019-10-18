@@ -91,7 +91,7 @@
 		Espresso, OkHttp, SnackEngage, TraceDroid
 	</string>
     <string name="about_data_privacy_statement">
-        <![CDATA[<a href="https://github.com/EventFahrplan/EventFahrplan/blob/master/DATA-PRIVACY-DE.md">Data privacy statement (German)</a>]]>
+        <![CDATA[<a href=" https://link.junge-sprachwissenschaft.de/vereinsimpressum">Data privacy statement (German)</a>]]>
     </string>
     <string name="copyright_notes" translatable="false">
         Copyright 2013-2019 johnjohndoe.
