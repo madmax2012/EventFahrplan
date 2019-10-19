@@ -85,7 +85,7 @@ android {
             buildConfigField "boolean", "ENGAGE_C3NAV_APP_INSTALLATION", "false"
             buildConfigField "boolean", "ENGAGE_GOOGLE_BETA_TESTING", "false"
             buildConfigField "boolean", "ENGAGE_GOOGLE_PLAY_RATING", "false"
-            buildConfigField "String", "TRACE_DROID_EMAIL_ADDRESS", '"tobias.preuss+35c3@googlemail.com"'
+            buildConfigField "String", "TRACE_DROID_EMAIL_ADDRESS", '"stuts+max@cow.yt"'
             buildConfigField "String", "SCHEDULE_FEEDBACK_URL", '"https://talks.stuts.de/en/stuts65/public/events/%s/feedback/new"'
         }
     }

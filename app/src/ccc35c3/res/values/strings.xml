@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">66 StuTs Schedule</string>
+    <string name="app_name">StuTS 66</string>
     <string name="app_hardcoded_subtitle">Stuts Muenchen 2019</string>
     <string name="conference_url">
         <![CDATA[<a href="https://talks.stuts.de">https://talks.stuts.de</a>]]>

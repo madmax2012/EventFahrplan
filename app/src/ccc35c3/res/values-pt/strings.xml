@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Cronograma 35C3</string>
-    <string name="app_hardcoded_subtitle">27.-30 de dezembro de 2018, Leipzig, Leipziger Messe</string>
+    <string name="app_name">StuTS 66</string>
+    <string name="app_hardcoded_subtitle">Stuts Muenchen 2019</string>
     <string name="conference_url">
-        <![CDATA[<a href="https://events.ccc.de/congress/2018/wiki">https://events.ccc.de/congress/2018/wiki</a>]]>
+        <![CDATA[<a href="https://talks.stuts.de">https://talks.stuts.de</a>]]>
     </string>
     <string name="source_code">
-        <![CDATA[<a href="https://github.com/EventFahrplan/EventFahrplan">Código fonte</a>]]>
+        <![CDATA[<a href="https://github.com/EventFahrplan/EventFahrplan">Source code</a>]]>
     </string>
     <string name="google_play_store">
-        <![CDATA[<a href="https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule">Listagem da Play Store</a>]]>
+        <![CDATA[<a href="https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule">Google PlayStore listing</a>]]>
     </string>
     <string name="copyright_logo">
-        <![CDATA[35C3: Atualizando design de memórias feito por Stella Schiffczyk]]>
+        <![CDATA[StuTS66: Orga Muenchen 2]]>
     </string>
     <string name="about_logo_content_description">
-        Atualizando logotipo de memórias 35C3, gradiente do azul para o verde
+        Logo Muenchen
     </string>
 </resources>
